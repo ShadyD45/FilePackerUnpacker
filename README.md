@@ -13,7 +13,7 @@
     along with it's checksum to ensure that data is untampered and another unauthorized person can't
 	access it.
   - While unpacking the tool first checks if the checksum is correct and the file is untampered.
-  	By using the metadata of original files in the packed file, it retrieves the files along with their data intact. 
+  	By using the metadata of packed files, it retrieves the original files with their data intact. 
 
 # Build the project:
   1) First clone the repository on your system.
